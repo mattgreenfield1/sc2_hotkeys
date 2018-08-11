@@ -2,7 +2,7 @@
 
 [Hotkeys]
 PTT=Equals
-ArmySelect=Shift+F2
+ArmySelect=Shift+Alt+S
 CameraCenter=Control+Space
 CommanderAbility0=Control+Alt+1
 CommanderAbility1=Control+Alt+2
@@ -44,7 +44,7 @@ ControlGroupRecall7=7,Q
 ControlGroupRecall8=8,W
 ControlGroupRecall9=9,Z
 GameTooltipsOn=Alt
-IdleWorker=Shift+F1
+IdleWorker=Shift+Alt+A
 QuickSave=Minus
 TargetChoose=LeftMouseButton,C
 TownCamera=Shift+Space
@@ -52,18 +52,18 @@ CameraSave0=Control+F1
 CameraSave1=Control+F2
 CameraSave2=Control+F3
 CameraSave3=Control+F4
-CameraSave4=Control+F5
-CameraSave5=Control+F6
-CameraSave6=Control+F7
-CameraSave7=Control+F8
+CameraSave4=Control+F5,Shift+Alt+F1
+CameraSave5=Control+F6,Shift+Alt+F2
+CameraSave6=Control+F7,Shift+Alt+F3
+CameraSave7=Control+F8,Shift+Alt+F5
 CameraView0=F1
 CameraView1=F2
 CameraView2=F3
 CameraView3=F4
-CameraView4=F5
-CameraView5=F6
-CameraView6=F7
-CameraView7=F8
+CameraView4=F5,Shift+F1
+CameraView5=F6,Shift+F2
+CameraView6=F7,Shift+F3
+CameraView7=F8,Shift+F4
 
 [Commands]
 BuildTechLabFactory/FactoryFlying=T
